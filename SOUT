@@ -1,0 +1,25 @@
+{
+  "empresa": "SOLUTION FAC",
+  "whatsapp": "51901742151",
+  "logo_url": "https://i.imgur.com/tu-logo.png",
+  "colores": {
+    "principal": "#059669",
+    "secundario": "#d97706"
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Espárrago Verde de Exportación",
+      "categoria": "Agrícola",
+      "imagen": "https://images.unsplash.com/photo-1515471209610-dae1c92d0f96",
+      "variantes": ["Caja 5kg", "Caja 10kg", "Atado 1kg"]
+    },
+    {
+      "id": 2,
+      "nombre": "Palta Hass Calibre A",
+      "categoria": "Agrícola",
+      "imagen": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2",
+      "variantes": ["Malla 1kg", "Caja 4kg"]
+    }
+  ]
+}  
