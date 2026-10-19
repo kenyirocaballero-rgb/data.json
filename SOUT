@@ -1,25 +1,51 @@
 {
-  "empresa": "SOLUTION FAC",
+  "empresa": "SOLUTION FACS",
+  "slogan": "Soluciones Agrícolas y Fitosanitarias",
   "whatsapp": "51901742151",
-  "logo_url": "https://i.imgur.com/tu-logo.png",
-  "colores": {
-    "principal": "#059669",
-    "secundario": "#d97706"
-  },
   "productos": [
     {
       "id": 1,
-      "nombre": "Espárrago Verde de Exportación",
-      "categoria": "Agrícola",
-      "imagen": "https://images.unsplash.com/photo-1515471209610-dae1c92d0f96",
-      "variantes": ["Caja 5kg", "Caja 10kg", "Atado 1kg"]
+      "nombre": "Abamectina 1.8% EC",
+      "categoria": "Insecticidas & Acaricidas",
+      "ingrediente_activo": "Abamectina (18 g/L)",
+      "modo_accion": "Contacto e ingestión con actividad translaminar. Modulador del canal de cloro (IRAC Grupo 6). Inhibe la transmisión de impulsos nerviosos en ácaros y minadores.",
+      "descripcion": "Insecticida-acaricida de amplio espectro eficaz contra Aculops, Tetranychus spp. y Liriomyza en paltos, cítricos y hortalizas.",
+      "precio": 85.00,
+      "imagen": "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?auto=format&fit=crop&w=600",
+      "variantes": ["Envase 250 ml", "Frasco 1 Litro", "Galón 5 Litros"]
     },
     {
       "id": 2,
-      "nombre": "Palta Hass Calibre A",
-      "categoria": "Agrícola",
-      "imagen": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2",
-      "variantes": ["Malla 1kg", "Caja 4kg"]
+      "nombre": "Imidacloprid 350 SC",
+      "categoria": "Insecticidas & Acaricidas",
+      "ingrediente_activo": "Imidacloprid (350 g/L)",
+      "modo_accion": "Sistémico acrópeto por vía radicular y foliar (IRAC Grupo 4A). Neonicotinoide antagonista del receptor nicotínico de la acetilcolina.",
+      "descripcion": "Control prolongado de insectos chupadores como queresas, pulgones, mosca blanca y trips en palto, espárrago y frutales.",
+      "precio": 120.00,
+      "imagen": "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&w=600",
+      "variantes": ["Frasco 250 ml", "Frasco 1 Litro", "Galón 5 Litros"]
+    },
+    {
+      "id": 3,
+      "nombre": "Chlorpyrifos 480 EC",
+      "categoria": "Insecticidas & Acaricidas",
+      "ingrediente_activo": "Clorpirifos (480 g/L)",
+      "modo_accion": "Contacto, ingestión y acción de vapor. Inhibidor de la acetilcolinesterasa AChE (IRAC Grupo 1B - Organofosforado).",
+      "descripcion": "Control de plagas del suelo y foliares como gusanos cortadores, queresas y prodiplosis en esparragueras y maíz.",
+      "precio": 65.00,
+      "imagen": "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?auto=format&fit=crop&w=600",
+      "variantes": ["Frasco 1 Litro", "Galón 5 Litros", "Cilindro 200 Litros"]
+    },
+    {
+      "id": 4,
+      "nombre": "Emamectin Benzoate 5% SG",
+      "categoria": "Insecticidas & Acaricidas",
+      "ingrediente_activo": "Benzoato de Emamectina (50 g/kg)",
+      "modo_accion": "Translaminar por ingestión (IRAC Grupo 6). Parálisis veloz en larvas por apertura de canales de cloro.",
+      "descripcion": "Especialista en control de Spodoptera frugiperda, Helicoverpa y larvas de lepidópteros en maíz, espárrago y hortalizas.",
+      "precio": 95.00,
+      "imagen": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?auto=format&fit=crop&w=600",
+      "variantes": ["Bolsa 100 g", "Bolsa 500 g", "Pote 1 kg"]
     }
   ]
-}  
+}
